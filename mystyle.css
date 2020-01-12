@@ -33,6 +33,10 @@ img:hover	{
 	
 }
 
+.main_img {
+	opacity: 1;
+}
+
 h1 {
 	text-align: center;
 	color: red;
